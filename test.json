@@ -1,4 +1,0 @@
-[
-  ["push", "Hello from JSON VM!"],
-  ["call", "print", 1]
-]
