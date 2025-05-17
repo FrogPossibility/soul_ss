@@ -1,6 +1,8 @@
 {
   "premium": [],
-  "free": [],
+  "free": [
+    "muradjan1"
+  ],
   "standard": [],
   "blacklist": []
 }
