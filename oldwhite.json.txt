@@ -17,7 +17,8 @@
     "Jamaltay2333",
     "ffgstz",
     "Lajeunesse7958",
-    "SuperHacke_YT"
+    "SuperHacke_YT",
+    "profrogcreator"
   ],
   "free": [
     "GummerPig",
@@ -75,8 +76,7 @@
     "Goodbad_50",
     "Books1234567891021",
     "Kunfupanda918",
-    "olkayode",
-    "profrogcreator"
+    "olkayode"
   ],
   "standard": [
   ],
