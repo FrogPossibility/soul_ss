@@ -12,7 +12,6 @@
     "kittien_milk",
     "SSShowcaserFE",
     "Raidar1005",
-    "profrogcreator",
     "Ar1876777",
     "ScripterAltLuau",
     "Jamaltay2333",
@@ -77,5 +76,10 @@
     "Books1234567891021",
     "Kunfupanda918",
     "olkayode"
+  ],
+  "standard": [
+    "profrogcreator"
+  ],
+  "blacklist": [
   ]
 }
