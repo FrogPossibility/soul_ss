@@ -12,7 +12,6 @@
     "Eufui_banido42",
     "ytyaroslav_alt",
     "2014ccclllff",
-    "YTZ_codex3",
     "QAKLkidd",
     "superguyiamstrung",
     "kingbaconnon19",
@@ -27,5 +26,7 @@
     "SuperHacke_YT",
     "profrogcreator"
   ],
-  "blacklist": []
+  "blacklist": [
+    "YTZ_codex3"
+  ]
 }
